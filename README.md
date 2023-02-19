@@ -1,6 +1,6 @@
 Why hello there!
 
-This is my personal github account I use to develop/maintain cool applications I actually use every day! 
+This is my personal github account I use to develop/maintain cool applications I actually use! 
 
 Repos are private with collaboration dependent on project. 
 <!---
